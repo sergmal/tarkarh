@@ -12,7 +12,7 @@
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>ylesanne1_1</Name>
-    <RootNamespace>PythonApplication1</RootNamespace>
+    <RootNamespace>ylesanne1_1</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>

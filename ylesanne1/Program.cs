@@ -15,7 +15,7 @@ namespace ylesanne1_2
             var distance = p.distance(p2);
             Console.WriteLine(distance);
 
-            var p3 = new Point(10, 10);
+            var p3 = new Point(15, 17);
             p3.centre_rotate(Math.PI / 3);
             Console.WriteLine(p3);
 

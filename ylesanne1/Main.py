@@ -14,6 +14,6 @@ dist = p1.distance(p2)
 print(dist)
 
 #keera ymber alguspunkti
-p3 = Point(10,10)
+p3 = Point(15,17)
 p3.centre_rotate(math.pi/3)
 print(p3)
