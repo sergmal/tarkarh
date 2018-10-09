@@ -7,6 +7,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ylesanne1_1", "ylesanne1_1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ylesanne1_2", "ylesanne1_2.csproj", "{3D7FCC2B-546A-499C-8EC7-00F3CFEB0179}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ylesanne3", "..\ylesanne3\ylesanne3.csproj", "{BDC7A099-ABD6-43F8-9E74-78C99672814B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "testapp", "..\testapp\testapp.pyproj", "{F758DEE8-A551-4888-82E1-6A3A735F68C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,12 @@ Global
 		{3D7FCC2B-546A-499C-8EC7-00F3CFEB0179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D7FCC2B-546A-499C-8EC7-00F3CFEB0179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D7FCC2B-546A-499C-8EC7-00F3CFEB0179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC7A099-ABD6-43F8-9E74-78C99672814B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC7A099-ABD6-43F8-9E74-78C99672814B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC7A099-ABD6-43F8-9E74-78C99672814B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC7A099-ABD6-43F8-9E74-78C99672814B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F758DEE8-A551-4888-82E1-6A3A735F68C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F758DEE8-A551-4888-82E1-6A3A735F68C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
